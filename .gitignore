@@ -2,3 +2,4 @@ myenv-3.9
 WhatsApp Chat with CE-1(SEM-7).txt
 whatsapp.ipynb
 .venv
+__pycache__
