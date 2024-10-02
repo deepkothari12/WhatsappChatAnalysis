@@ -59,7 +59,7 @@ if uploaded_file is not None:
             col1 , col2 = st.columns(2)
 
             with col1:
-                ax.bar(plot.index , plot.values )
+                ax.bar(plot.index , plot.values) # type: ignore
                 st.pyplot(fig=fig)
 
             with col2:
