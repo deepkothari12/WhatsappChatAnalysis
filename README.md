@@ -15,7 +15,8 @@ This project provides tools and scripts for analyzing WhatsApp chat data. It ena
 
 ## Installation
 Clone the repository:
-* git clone https://github.com/your-username/whatsapp-chat-analysis.git
+* git clone https://github.com/your-username/whatsapp-chat-analysis.git.
+  
 Install the necessary packages:
 * pip install -r requirements.txt
 
