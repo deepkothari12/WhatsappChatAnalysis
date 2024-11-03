@@ -13,6 +13,8 @@ This project provides tools and scripts for analyzing WhatsApp chat data. It ena
 * Frequent Words: Get a word cloud of frequently used words.
 * Daily and Weekly Patterns: See when the chat is most active.
 
+## Data
+* Whatsapp(Mobile) --> select Group or person --> Click on ":" --> Click on "more" --< Clik on "Export Chat"(without media)
 
 ## Installation
 Clone the repository:
@@ -22,4 +24,4 @@ Install the necessary packages:
 * pip install -r requirements.txt
 
 ## Demo 
-[https://deepkothari12-whatsappchatanalysis-app-aifyki.streamlit.app](https://deepkothari12-whatsappchatanalysis-app-aifyki.streamlit.app)
+[https://deepkothari12-whatsappchatanalysis-app-aifyki.streamlit.app](https://deepkothari12-whatsappchatanalysis-app-aifyki.streamlit.app/)
