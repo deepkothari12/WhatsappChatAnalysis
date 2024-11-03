@@ -22,4 +22,4 @@ Install the necessary packages:
 * pip install -r requirements.txt
 
 ## Demo 
-Copy the link(don't Click)  --> https://deepkothari12-whatsappchatanalysis-app-aifyki.streamlit.app
+[https://deepkothari12-whatsappchatanalysis-app-aifyki.streamlit.app](https://deepkothari12-whatsappchatanalysis-app-aifyki.streamlit.app)
