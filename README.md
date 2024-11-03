@@ -24,4 +24,4 @@ Install the necessary packages:
 * pip install -r requirements.txt
 
 ## Demo 
-[https://deepkothari12-whatsappchatanalysis-app-aifyki.streamlit.app](https://deepkothari12-whatsappchatanalysis-app-aifyki.streamlit.app/)
+Plese Copy Link --> https://deepkothari12-whatsappchatanalysis-app-aifyki.streamlit.app
