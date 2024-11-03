@@ -11,3 +11,11 @@ This project provides tools and scripts for analyzing WhatsApp chat data. It ena
 * Top Participants: Identify which participants are most active in the chat.
 * Frequent Words: Get a word cloud of frequently used words.
 * Daily and Weekly Patterns: See when the chat is most active.
+
+
+## Installation
+Clone the repository:
+* git clone https://github.com/your-username/whatsapp-chat-analysis.git
+Install the necessary packages:
+* pip install -r requirements.txt
+
