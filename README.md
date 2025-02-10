@@ -24,7 +24,7 @@ Install the necessary packages:
 * Whatsapp(Mobile) --> select Group or person --> Click on ":" --> Click on "more" --< Clik on "Export Chat"(without media)
 
 ## Demo 
-Plese Copy Link --> https://deepkothari12-whatsappchatanalysis-app-aifyki.streamlit.app
+Please Copy Link to show the demp --> https://deepkothari12-whatsappchatanalysis-app-aifyki.streamlit.app
 
 ## Team 
 Deep Kothari.
